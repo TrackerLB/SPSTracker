@@ -12,8 +12,10 @@ Check [INSTALL.md](INSTALL.md) for installation instructions.
 
 ##Results
 
-|<sub>Tracker</sub>|<sub>VOT2016</br>EAO /  A / R</sub>|<sub>VOT2018</br>EAO / A / R</sub>| 
-| <sub>SPSTracker</sub> |<sub>0.459/0.625/0.158</sub>|<sub>0.434/0.612/0.169</sub> |
+|                           <sub>Tracker</sub>                           |      <sub>VOT2016</br>EAO /  A / R</sub>     |      <sub>VOT2018</br>EAO / A / R</sub>      | 
+|:----------------------------------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|
+| <sub>SPSTracker</sub> |       <sub>0.459/0.625/0.158</sub>       |       <sub>0.434/0.612/0.169</sub>       |
+
 
 ## Citations
 Please consider citing our paper in your publications if the project helps your research.
