@@ -24,7 +24,7 @@ Please consider citing our paper in your publications if the project helps your 
 @inproceedings{hu2020spstracker,
   title   =  {{SPSTracker}: Sub-Peak Suppression of Response Map for Robust Object Tracking},
   author  =  {Qintao Hu and Lijun Zhou and Xiaoxiao Wang and Yao Mao and Jianlin Zhang and Qixiang Ye},
-  booktitle =  {Neural Information Processing Systems},
-  year    =  {2019}
+  booktitle =  {Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI)},
+  year    =  {2020}
 }
 ```
