@@ -9,9 +9,9 @@ This is the official code of SPSTracker: Sub-Peak Suppression of Response Map fo
 ![flowchart](figure/flowchart.png)
 
 ## Installation 
-Check [INSTALL.md](INSTALL.md) for installation instructions.
+Code is implemented upon the ATOM architecture, check [INSTALL.md](INSTALL.md) for installation instructions.
 
-##Results
+## Results
 
 |                           <sub>Tracker</sub>                           |      <sub>VOT2016</br>EAO /  A / R</sub>     |      <sub>VOT2018</br>EAO / A / R</sub>      | 
 |:----------------------------------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|
