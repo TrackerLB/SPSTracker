@@ -1,4 +1,4 @@
-# SPSTracker: Sub-Peak Suppression of Response Map for Robust Object Tracking
+# SPSTracker: Sub-Peak Suppression of Response Map for Robust Object Tracking(https://arxiv.org/abs/1912.00597).
 
 
 ## News
