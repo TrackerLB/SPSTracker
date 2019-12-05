@@ -2,7 +2,7 @@
 
 
 ## News
-* \[2019/11/11\] SPSTracker is has been accepted for presentation at the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20).
+* \[2019/11/11\] SPSTracker is has been accepted as oral paper at the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20).
 ## Introduction
 This is the official code of SPSTracker: Sub-Peak Suppression of Response Map for Robust Object Tracking. We propose a simple-yet-effective approach, referred to as SPSTracker for robust object tracking. Our motivation is based on the observation that most failure tracking is caused by the interference around the target. Such interference produces multi-peak tracking response, and the sub-peak may progressively ``grow" and eventually cause model drift. Therefore ,we propose suppressing the sub-peaks to aggregating a single-peak response, with the aim of preventing model drift from the perspective of tracking response regularization. 
 ![comparison](figure/SPS.png)
