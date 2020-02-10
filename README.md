@@ -17,6 +17,9 @@ Code is implemented upon the ATOM architecture, check [INSTALL.md](INSTALL.md) f
 |:----------------------------------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|
 | <sub>SPSTracker</sub> |       <sub>0.459/0.625/0.158</sub>       |       <sub>0.434/0.612/0.169</sub>       |
 
+## Run 
+SPSTracker default_vot --dataset vot --debug 1 --threads 0
+
 
 ## Citations
 Please consider citing our paper in your publications if the project helps your research.
